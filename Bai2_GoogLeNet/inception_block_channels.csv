@@ -1,0 +1,4 @@
+block,input_channels,output_channels,parameters
+1,32,56,5740
+2,56,112,22104
+3,112,224,65176

@@ -1,0 +1,4 @@
+model,experiment,parameters,seconds_per_epoch,macro_f1
+AvgPool,lenet_avg,339421,36.677136925999996,0.24934722201400172
+MaxPool,lenet_max,339421,15.174356872999999,0.2793642908825832
+GoogLeNet small,googlenet_small,98641,15.6090435308,0.31450025264659687

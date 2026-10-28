@@ -1,0 +1,2 @@
+experiment,variant,parameters,trainable_parameters,seconds_per_epoch,accuracy,precision_macro,recall_macro,f1_macro
+googlenet_small,GoogLeNet small,98641,98641,15.6090435308,0.34375935348697995,0.3778193645353075,0.3218719010706071,0.31450025264659687
